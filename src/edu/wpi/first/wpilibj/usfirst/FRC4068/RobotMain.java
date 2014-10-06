@@ -33,6 +33,7 @@ public class RobotMain extends SimpleRobot {
      * This function is called once each time the robot enters autonomous mode.
      */
     public void autonomous() {
+    	DriveTrain.drive(1, 0);
     }
 
     /**
