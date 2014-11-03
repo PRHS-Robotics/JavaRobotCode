@@ -70,7 +70,10 @@ public class RobotMain extends SimpleRobot {
             Claws.setRaiseLower(claws);
             
             /**
-             * Used for the drive train movement. Should be less jerky. Feel free to modify where necessary.
+             * Used for the drive train movement.
+             * Should be less jerky.
+             * Feel free to modify where necessary.
+             * Should work for most drive train designs.
              */
              
              if (driverjoystick[8]){
