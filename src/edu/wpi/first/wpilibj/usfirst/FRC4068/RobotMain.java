@@ -25,7 +25,7 @@ public class RobotMain extends SimpleRobot {
     References refs = new References();
     
     public void robotInit(){
-
+ 
     }
     
     /**
